@@ -47,7 +47,7 @@ body {
   flex: 5;
 }
 
-.panel.active h3 {
+.panel .active h3 {
   flex: 1;
 }
 
